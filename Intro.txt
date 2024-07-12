@@ -1,0 +1,33 @@
+                                            NGINX
+
+nginx is a web-server in the client-server model in which each and every requests will handle and serve by the nginx.
+
+Nginx is used as a :-
+. web server or a CDN server
+. api gateway
+. reverse proxy
+. caching
+. rate limiting
+. Host static sites 
+. Host multi sites 
+. Load balancer
+
+Documentation :- http://nginx.org/en/docs/
+
+NGINX FILE :- 
+This PC\Local Disk (C:)\nginx-1.26.1
+
+Default HTTP PORT => 80 (Nginx Server is running on port localhost:80)
+Default HTTPS PORT => 443
+
+------------------- Start the nginx server -------------------------
+By going to this file path you have to click on the nginx application for the successful run which you can check on localhost:80. (This PC\Local Disk (C:)\nginx-1.26.1)
+
+
+------------------- Stop the nginx server -------------------------
+Stop the NGINX Server according to this file path "This PC\Local Disk (C:)\nginx-1.26.1" where nginx files has present via terminal :-
+nginx -s quit
+
+OR
+
+By going to the task manager stop the running of nginx you can do that by see the port number in nginx.pid file into the log folder like 8440. 

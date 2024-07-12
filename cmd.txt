@@ -1,0 +1,5 @@
+Open terminal to this path where files and folders related to NGINX :-  This PC\Local Disk (C:)\nginx-1.26.1
+
+To test the nginx configuration via terminal :-  nginx -t 
+nginx: the configuration file C:\nginx-1.26.1/conf/nginx.conf syntax is ok
+nginx: configuration file C:\nginx-1.26.1/conf/nginx.conf test is successful
