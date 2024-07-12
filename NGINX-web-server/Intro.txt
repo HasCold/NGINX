@@ -1,0 +1,13 @@
+                                            NGINX
+
+nginx is a web-server in the client-server model in which each and every requests will handle and serve by the nginx.
+
+Nginx is used as a :-
+. web server
+. api gateway
+. reverse proxy
+. caching
+. rate limiting
+. Host static sites 
+. Host multi sites 
+. Load balancer
