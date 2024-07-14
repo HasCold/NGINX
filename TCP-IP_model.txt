@@ -1,0 +1,18 @@
+
+The TCP/IP model has four layers:
+
+1 Network Interface (or Link) Layer:
+Handles physical hardware and protocols to establish a network connection.
+Examples: Ethernet, Wi-Fi, ARP (Address Resolution Protocol).
+
+2. Internet Layer:
+Responsible for logical addressing and routing.
+Examples: IP (Internet Protocol), ICMP (Internet Control Message Protocol).
+
+3. Transport Layer:
+Provides end-to-end communication services for applications.
+Examples: TCP (Transmission Control Protocol), UDP (User Datagram Protocol).
+
+4. Application Layer:
+Contains protocols and services for network applications.
+Examples: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol).
